@@ -1,5 +1,5 @@
 # 腾讯定位 Swift 示例项目
-[English](README.md) | [中文](README_CN.md)
+
 一个全面的 Swift 示例项目，展示如何在 iOS 应用中集成和使用腾讯位置服务(LBS) SDK。
 
 ## 📱 功能特性
